@@ -1,2 +1,4 @@
 # Bank-Database
-A database for a bank created in SQLite.
+Database Design for a Banking Enterprise (SQLite)
+
+This was an assignment completed for my intro toduction to database design course at Kent State.
